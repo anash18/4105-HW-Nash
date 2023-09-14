@@ -1,0 +1,7 @@
+echo "# 4105-HW-Nash" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anash18/4105-HW-Nash.git
+git push -u origin main
